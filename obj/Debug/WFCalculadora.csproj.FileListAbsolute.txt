@@ -1,0 +1,11 @@
+C:\Users\Jhonatta\Desktop\Cast .Net\CS\'CSharpIntermediario\WFCalculadora\bin\Debug\WFCalculadora.exe.config
+C:\Users\Jhonatta\Desktop\Cast .Net\CS\'CSharpIntermediario\WFCalculadora\bin\Debug\WFCalculadora.exe
+C:\Users\Jhonatta\Desktop\Cast .Net\CS\'CSharpIntermediario\WFCalculadora\bin\Debug\WFCalculadora.pdb
+C:\Users\Jhonatta\Desktop\Cast .Net\CS\'CSharpIntermediario\WFCalculadora\obj\Debug\WFCalculadora.csproj.AssemblyReference.cache
+C:\Users\Jhonatta\Desktop\Cast .Net\CS\'CSharpIntermediario\WFCalculadora\obj\Debug\WFCalculadora.csproj.SuggestedBindingRedirects.cache
+C:\Users\Jhonatta\Desktop\Cast .Net\CS\'CSharpIntermediario\WFCalculadora\obj\Debug\WFCalculadora.Calculadora.resources
+C:\Users\Jhonatta\Desktop\Cast .Net\CS\'CSharpIntermediario\WFCalculadora\obj\Debug\WFCalculadora.Properties.Resources.resources
+C:\Users\Jhonatta\Desktop\Cast .Net\CS\'CSharpIntermediario\WFCalculadora\obj\Debug\WFCalculadora.csproj.GenerateResource.cache
+C:\Users\Jhonatta\Desktop\Cast .Net\CS\'CSharpIntermediario\WFCalculadora\obj\Debug\WFCalculadora.csproj.CoreCompileInputs.cache
+C:\Users\Jhonatta\Desktop\Cast .Net\CS\'CSharpIntermediario\WFCalculadora\obj\Debug\WFCalculadora.exe
+C:\Users\Jhonatta\Desktop\Cast .Net\CS\'CSharpIntermediario\WFCalculadora\obj\Debug\WFCalculadora.pdb
