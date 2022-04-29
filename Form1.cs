@@ -28,7 +28,7 @@ namespace WFCalculadora
             resultado = num1 + num2;
 
             textResultado.Text = resultado.ToString();
-           
+            
         }
 
         private void btnSub_Click(object sender, EventArgs e)
@@ -41,6 +41,10 @@ namespace WFCalculadora
             resultado = num1 - num2;
 
             textResultado.Text = resultado.ToString();
+
+            textNumero1.Clear();
+            textNumero2.Clear();
+            textResultado.Clear();
         }
 
         private void btnMult_Click(object sender, EventArgs e)
@@ -53,6 +57,10 @@ namespace WFCalculadora
             resultado = num1 * num2;
 
             textResultado.Text = resultado.ToString();
+
+            textNumero1.Clear();
+            textNumero2.Clear();
+            textResultado.Clear();
         }
 
         private void btnDiv_Click(object sender, EventArgs e)
@@ -65,6 +73,10 @@ namespace WFCalculadora
             resultado = num1 / num2;
 
             textResultado.Text = resultado.ToString();
+
+            textNumero1.Clear();
+            textNumero2.Clear();
+            textResultado.Clear();
         }
     }
 }
